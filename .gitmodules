@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "datacleanr"]
-	path = datacleanr
-	url = https://github.com/the-hull/datacleanr
 [submodule "RAPTOR"]
 	path = RAPTOR
 	url = https://github.com/the-hull/raptor
+[submodule "datacleanr"]
+	path = datacleanr
+	url = https://github.com/the-hull/datacleanr
